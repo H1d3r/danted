@@ -3,10 +3,10 @@
 #   Dante Socks5 Server AutoInstall
 #   -- Owner:       https://www.inet.no/dante
 #   -- Provider:    https://sockd.info
-#   -- Author:      Lozy
+#   -- Author:      H1d3r
 #
 
-REQUEST_SERVER="https://raw.github.com/Lozy/danted/master"
+REQUEST_SERVER="https://raw.github.com/H1d3r/danted/master"
 SCRIPT_SERVER="https://public.sockd.info"
 SYSTEM_RECOGNIZE=""
 

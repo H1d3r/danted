@@ -16,7 +16,7 @@ Comparing with the apt-get or building from source manually, this script will be
 ## Install
 
 ```bash
-wget --no-check-certificate https://raw.github.com/Lozy/danted/master/install.sh -O install.sh 
+wget --no-check-certificate https://raw.github.com/H1d3r/danted/master/install.sh -O install.sh 
 bash install.sh
 
 # run with options: bash install.sh option1 option2

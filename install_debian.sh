@@ -1,13 +1,13 @@
 #!/bin/bash
 #
-# Provides:          sockd.info (Lozy)
+# Provides:          sockd.info (H1d3r)
 #
 
 VERSION="1.3.2"
 INSTALL_FROM="compile"
-DEFAULT_PORT="2016"
-DEFAULT_USER=""
-DEFAULT_PAWD=""
+DEFAULT_PORT="65535"
+DEFAULT_USER="ss5"
+DEFAULT_PAWD="fuckyourmm"
 WHITE_LIST_NET=""
 WHITE_LIST=""
 SCRIPT_HOST="https://public.sockd.info"
